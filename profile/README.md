@@ -1,5 +1,5 @@
-[!IMPORTANT]
-En la ma
+> [!IMPORTANT]
+> En la ma
 # ¡Hola!, somos Homebrew Central Devs Crew👋
 #### Somos un grupo de personas apasionadas de la Scene de 3DS y nos dedicamos a crear scripts y traducir aplicaciones para la 3DS.
 ## Nuestros proyectos 
